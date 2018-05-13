@@ -1,0 +1,8 @@
+{
+  "name": "inquirer-on-speed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Xenira/inquirer-on-speed.git",
+  "author": "Lasse Sprengel <lasse.sprengel@protonmail.ch>",
+  "license": "MIT"
+}
